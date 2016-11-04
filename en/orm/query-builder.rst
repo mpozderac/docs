@@ -416,7 +416,7 @@ Case statements
 The ORM also offers the SQL ``case`` expression. The ``case`` expression allows
 for implementing ``if ... then ... else`` logic inside your SQL. This can be useful
 for reporting on data where you need to conditionally sum or count data, or where you
-need to specific data based on a condition.
+need specific data based on a condition.
 
 If we wished to know how many published articles are in our database, we'd need to generate the following SQL::
 
